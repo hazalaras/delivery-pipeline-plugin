@@ -1,4 +1,4 @@
-Delivery Pipeline Plugin
+DPP
 ========================
 
 ![alt tag](https://raw.githubusercontent.com/Diabol/delivery-pipeline-plugin/master/docs/dpp_logo.png)
